@@ -1,18 +1,18 @@
-name: John Doe
+name: Gustavo
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: luizgustavo...@gmail.com
+  github: LUIZGHOSTAVO
+  linkedin: Ghostavo
+  phone: 999999
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
+  - idiom: portugues
   - idiom: Russian
   - idiom: French
 
